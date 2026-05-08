@@ -10,7 +10,7 @@ This Power BI dashboard was designed to provide a comprehensive view of sales pe
 *   **DAX Measures:** Implementation of custom calculated measures for precise financial reporting.
 
 ## Visuals (Screenshots)
-![Dashboard Overview]
+
 <img width="2631" height="1536" alt="dashboardpowerbi" src="https://github.com/user-attachments/assets/d9062984-674e-4b8a-89e7-d84bff39454f" />
 
 
